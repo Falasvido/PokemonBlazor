@@ -1,0 +1,94 @@
+/* _content/PokemonBlazor/Dialogs/PokemonDetail/PokemonDetail.razor.rz.scp.css */
+body[b-hcjc1zba6u] {
+}
+/* _content/PokemonBlazor/Pages/Pokedex/Pokedex.razor.rz.scp.css */
+table[b-vhyczgpqmd] {
+    border-color: var(--green-4);
+    border-width: 4px;
+}
+
+.first-column[b-vhyczgpqmd] {
+    text-align: center;
+}
+
+#RowSelector[b-vhyczgpqmd] {
+    visibility: hidden;
+}
+
+#PokedexRow:hover[b-vhyczgpqmd] {
+    #RowSelector {
+        visibility: visible;
+    }
+}
+/* _content/PokemonBlazor/Shared/MainLayout.razor.rz.scp.css */
+.page[b-odz8lz5bfv] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-odz8lz5bfv] {
+    flex: 1;
+    background-color: var(--green-1);
+    border: 8px dashed var(--green-4);
+    border-left-width: 0px;
+}
+
+.page[b-odz8lz5bfv] {
+    flex-direction: row;
+}
+
+.sidebar[b-odz8lz5bfv] {
+    width: 300px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    background-color: var(--green-1);
+    border: 8px dashed var(--green-4);
+}
+
+.top-row[b-odz8lz5bfv] {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.top-row[b-odz8lz5bfv], article[b-odz8lz5bfv] {
+    padding-left: 2rem !important;
+    padding-right: 1.5rem !important;
+}
+
+/* _content/PokemonBlazor/Shared/NavMenu.razor.rz.scp.css */
+.navmenu-title[b-xduu9cxmjt] {
+    color: var(--green-4);
+}
+
+nav > div[b-xduu9cxmjt] {
+    display: flex;
+    justify-content: center;
+    margin: 8px 0;
+}
+
+h2[b-xduu9cxmjt] {
+    text-align: center;
+    margin: 24px 0;
+}
+
+div[b-xduu9cxmjt]  a {
+    color: var(--green-4);
+    font-size: 16px;
+    text-decoration: none;
+    padding: 4px;
+    width: 200px;
+    text-align: center;
+}
+
+div[b-xduu9cxmjt]  a:hover {
+    background-color: var(--green-3);
+    color: var(--green-1);
+}
+
+[b-xduu9cxmjt] .nav-active {
+    background-color: var(--green-3);
+    color: var(--green-2);
+}

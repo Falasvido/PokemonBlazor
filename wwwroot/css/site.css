@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Pokemon";
+    src: url('open-iconic/font/fonts/PokemonGb-RAeo.ttf');
+}
+
+@font-face {
+    font-family: "Unown";
+    src: url('open-iconic/font/fonts/PokemonUnownGb-YAWa.ttf');
+}
+
+:root {
+    --green-1: #9bbc0f;
+    --green-2: #8bac0f;
+    --green-3: #306230;
+    --green-4: #0f380f;
+}
+
+html, body {
+    font-family: 'Pokemon';
+}

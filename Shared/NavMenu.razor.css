@@ -1,0 +1,33 @@
+.navmenu-title {
+    color: var(--green-4);
+}
+
+nav > div {
+    display: flex;
+    justify-content: center;
+    margin: 8px 0;
+}
+
+h2 {
+    text-align: center;
+    margin: 24px 0;
+}
+
+div ::deep a {
+    color: var(--green-4);
+    font-size: 16px;
+    text-decoration: none;
+    padding: 4px;
+    width: 200px;
+    text-align: center;
+}
+
+div ::deep a:hover {
+    background-color: var(--green-3);
+    color: var(--green-1);
+}
+
+::deep .nav-active {
+    background-color: var(--green-3);
+    color: var(--green-2);
+}

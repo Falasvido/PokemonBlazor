@@ -1,0 +1,18 @@
+table {
+    border-color: var(--green-4);
+    border-width: 4px;
+}
+
+.first-column {
+    text-align: center;
+}
+
+#RowSelector {
+    visibility: hidden;
+}
+
+#PokedexRow:hover {
+    #RowSelector {
+        visibility: visible;
+    }
+}

@@ -1,0 +1,61 @@
+﻿@page "/pokedex"
+
+@using Data.Pokemon
+@inject PokemonService PokemonService
+
+@using PokemonBlazor.Dialogs.PokemonDetail;
+
+<PageTitle>Pokedex</PageTitle>
+
+
+@if (Pokemon == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>No.</th>
+                <th>Name</th>
+                <th>Type 1</th>
+                <th>Type 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pokemon in Pokemon)
+            {
+                <tr id="PokedexRow" @onclick="@(() => OpenPokemonDetail(pokemon))">
+                    <td id="RowSelector" class="first-column"><span class="oi oi-caret-right"></span></td>
+                    <td>@pokemon.Id</td>
+                    <td>@pokemon.Name</td>
+                    <td>@pokemon.Type1</td>
+                    <td>@(pokemon.Type2 != "" ? @pokemon.Type2 : "-")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (PokemonDetail)
+{
+    <PokemonDetail TextTest="delulu"></PokemonDetail>
+}
+
+
+@code {
+    private Pokemon[]? Pokemon;
+    private Boolean PokemonDetail = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Pokemon = await PokemonService.GetAllAsync();
+    }
+
+    private void OpenPokemonDetail(Pokemon Pokemon)
+    {
+        PokemonDetail = true;
+    }
+}
