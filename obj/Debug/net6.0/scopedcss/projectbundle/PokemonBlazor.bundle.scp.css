@@ -1,10 +1,46 @@
 /* _content/PokemonBlazor/Dialogs/PokemonDetail/PokemonDetail.razor.rz.scp.css */
-body[b-hcjc1zba6u] {
+.background[b-hcjc1zba6u] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #00000025;
+    cursor: pointer;
+}
+
+.container[b-hcjc1zba6u] {
+    position: fixed;
+    top: 20vh;
+    left: 30vw;
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    cursor: default;
+}
+
+img[b-hcjc1zba6u] {
+    width: auto;
+    height: 100px;
 }
 /* _content/PokemonBlazor/Pages/Pokedex/Pokedex.razor.rz.scp.css */
 table[b-vhyczgpqmd] {
     border-color: var(--green-4);
     border-width: 4px;
+}
+
+tr[b-vhyczgpqmd] {
+    border-color: var(--green-4);
+    border-bottom-width: 2px;
+}
+
+th[b-vhyczgpqmd] {
+    color: var(--green-4);
+}
+
+td[b-vhyczgpqmd] {
+    color: var(--green-4);
+    border-bottom-width: 2px;
 }
 
 .first-column[b-vhyczgpqmd] {
@@ -13,6 +49,10 @@ table[b-vhyczgpqmd] {
 
 #RowSelector[b-vhyczgpqmd] {
     visibility: hidden;
+}
+
+#PokedexRow[b-vhyczgpqmd] {
+    cursor: pointer;
 }
 
 #PokedexRow:hover[b-vhyczgpqmd] {

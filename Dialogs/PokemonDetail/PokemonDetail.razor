@@ -1,13 +1,27 @@
-﻿
+﻿@using Data.Pokemon
 
-<div style="width: 500px; height: 300px">
-    <h3>@TextTest</h3>
+<div class="background" @onclick="@OnCloseDialog"></div>
+
+<div class="container">
+    <h3>@Pokemon.Name</h3>
+    <div style="background-color: white">
+        <img src="@("PokemonSprites/"+Pokemon.Id+".png")">
+    </div>
+       
+    <span>@Pokemon.Description</span>
 </div>
+
 
 @code {
     [Parameter]
-    public string? TextTest { get; set; }
+    public Pokemon? Pokemon { get; set; }
 
-    // https://www.youtube.com/watch?v=udb6DNKZyhU&ab_channel=ClaudioBernasconi
+    [Parameter]
+    public EventCallback<bool> CloseDialog { get; set; }
+
+    private Task OnCloseDialog(Object test)
+    {
+        return CloseDialog.InvokeAsync(true);
+    }
 
 }

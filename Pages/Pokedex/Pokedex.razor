@@ -41,12 +41,13 @@ else
 
 @if (PokemonDetail)
 {
-    <PokemonDetail TextTest="delulu"></PokemonDetail>
+    <PokemonDetail Pokemon="SelectedPokemon" CloseDialog="@(() => ClosePokemonDetail())"></PokemonDetail>
 }
 
 
 @code {
     private Pokemon[]? Pokemon;
+    private Pokemon? SelectedPokemon;
     private Boolean PokemonDetail = false;
 
     protected override async Task OnInitializedAsync()
@@ -57,5 +58,12 @@ else
     private void OpenPokemonDetail(Pokemon Pokemon)
     {
         PokemonDetail = true;
+        SelectedPokemon = Pokemon;
+    }
+
+    private void ClosePokemonDetail()
+    {
+        PokemonDetail = false;
+        SelectedPokemon = null;
     }
 }

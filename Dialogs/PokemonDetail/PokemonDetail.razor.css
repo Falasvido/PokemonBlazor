@@ -1,2 +1,24 @@
-﻿body {
+﻿.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #00000025;
+    cursor: pointer;
+}
+
+.container {
+    position: fixed;
+    top: 20vh;
+    left: 30vw;
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    cursor: default;
+}
+
+img {
+    width: auto;
+    height: 100px;
 }

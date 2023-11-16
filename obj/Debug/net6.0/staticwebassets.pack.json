@@ -5,6 +5,610 @@
       "PackagePath": "staticwebassets\\PokemonBlazor.bundle.scp.css"
     },
     {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\001.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\001.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\002.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\002.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\003.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\003.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\004.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\004.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\005.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\005.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\006.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\006.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\007.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\007.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\008.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\008.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\009.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\009.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\010.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\010.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\011.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\011.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\012.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\012.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\013.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\013.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\014.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\014.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\015.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\015.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\016.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\016.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\017.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\017.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\018.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\018.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\019.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\019.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\020.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\020.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\021.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\021.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\022.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\022.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\023.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\023.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\024.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\024.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\025.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\025.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\026.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\026.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\027.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\027.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\028.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\028.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\029.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\029.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\030.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\030.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\031.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\031.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\032.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\032.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\033.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\033.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\034.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\034.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\035.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\035.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\036.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\036.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\037.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\037.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\038.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\038.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\039.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\039.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\040.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\040.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\041.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\041.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\042.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\042.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\043.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\043.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\044.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\044.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\045.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\045.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\046.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\046.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\047.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\047.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\048.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\048.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\049.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\049.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\050.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\050.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\051.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\051.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\052.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\052.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\053.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\053.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\054.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\054.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\055.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\055.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\056.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\056.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\057.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\057.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\058.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\058.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\059.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\059.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\060.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\060.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\061.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\061.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\062.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\062.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\063.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\063.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\064.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\064.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\065.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\065.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\066.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\066.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\067.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\067.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\068.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\068.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\069.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\069.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\070.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\070.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\071.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\071.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\072.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\072.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\073.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\073.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\074.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\074.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\075.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\075.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\076.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\076.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\077.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\077.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\078.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\078.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\079.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\079.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\080.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\080.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\081.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\081.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\082.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\082.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\083.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\083.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\084.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\084.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\085.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\085.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\086.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\086.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\087.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\087.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\088.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\088.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\089.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\089.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\090.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\090.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\091.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\091.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\092.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\092.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\093.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\093.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\094.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\094.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\095.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\095.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\096.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\096.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\097.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\097.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\098.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\098.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\099.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\099.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\100.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\100.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\101.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\101.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\102.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\102.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\103.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\103.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\104.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\104.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\105.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\105.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\106.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\106.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\107.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\107.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\108.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\108.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\109.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\109.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\110.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\110.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\111.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\111.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\112.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\112.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\113.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\113.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\114.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\114.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\115.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\115.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\116.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\116.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\117.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\117.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\118.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\118.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\119.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\119.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\120.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\120.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\121.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\121.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\122.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\122.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\123.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\123.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\124.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\124.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\125.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\125.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\126.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\126.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\127.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\127.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\128.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\128.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\129.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\129.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\130.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\130.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\131.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\131.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\132.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\132.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\133.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\133.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\134.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\134.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\135.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\135.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\136.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\136.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\137.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\137.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\138.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\138.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\139.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\139.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\140.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\140.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\141.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\141.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\142.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\142.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\143.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\143.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\144.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\144.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\145.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\145.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\146.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\146.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\147.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\147.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\148.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\148.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\149.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\149.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\150.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\150.png"
+    },
+    {
+      "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\PokemonSprites\\151.png",
+      "PackagePath": "staticwebassets\\PokemonSprites\\151.png"
+    },
+    {
       "Id": "C:\\repos\\PokemonBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },

@@ -3,12 +3,30 @@ table[b-vhyczgpqmd] {
     border-width: 4px;
 }
 
+tr[b-vhyczgpqmd] {
+    border-color: var(--green-4);
+    border-bottom-width: 2px;
+}
+
+th[b-vhyczgpqmd] {
+    color: var(--green-4);
+}
+
+td[b-vhyczgpqmd] {
+    color: var(--green-4);
+    border-bottom-width: 2px;
+}
+
 .first-column[b-vhyczgpqmd] {
     text-align: center;
 }
 
 #RowSelector[b-vhyczgpqmd] {
     visibility: hidden;
+}
+
+#PokedexRow[b-vhyczgpqmd] {
+    cursor: pointer;
 }
 
 #PokedexRow:hover[b-vhyczgpqmd] {

@@ -31,3 +31,4 @@ C:\repos\PokemonBlazor\obj\Debug\net6.0\ref\PokemonBlazor.dll
 C:\repos\PokemonBlazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\repos\PokemonBlazor\obj\Debug\net6.0\scopedcss\Pages\Pokedex\Pokedex.razor.rz.scp.css
 C:\repos\PokemonBlazor\obj\Debug\net6.0\scopedcss\Dialogs\PokemonDetail\PokemonDetail.razor.rz.scp.css
+C:\repos\PokemonBlazor\obj\Debug\net6.0\PokemonBlazor.csproj.AssemblyReference.cache
