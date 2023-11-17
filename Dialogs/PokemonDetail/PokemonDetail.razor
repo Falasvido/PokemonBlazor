@@ -2,14 +2,22 @@
 
 <div class="background" @onclick="@OnCloseDialog"></div>
 
-<div class="container">
-    <h3>@Pokemon.Name</h3>
-    <div style="background-color: white">
-        <img src="@("PokemonSprites/"+Pokemon.Id+".png")">
+<main>
+    <div class="details">
+        <div class="img-container">
+            <img src="@("PokemonSprites/"+Pokemon.Id+".png")">
+            <span>No. @Pokemon.Id</span>
+        </div>
+        <div class="info-container">
+            <h3>@Pokemon.Name</h3>
+            <span>@Pokemon.Type1</span>
+            <span>@Pokemon.Type2</span>
+        </div>
     </div>
-       
-    <span>@Pokemon.Description</span>
-</div>
+    <div class="text-container">
+        <span>@Pokemon.Description</span>
+    </div>
+</main>
 
 
 @code {

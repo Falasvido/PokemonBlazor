@@ -5,6 +5,8 @@
 }
 
 main[b-odz8lz5bfv] {
+    height: 100vh;
+    overflow: auto;
     flex: 1;
     background-color: var(--green-1);
     border: 8px dashed var(--green-4);
