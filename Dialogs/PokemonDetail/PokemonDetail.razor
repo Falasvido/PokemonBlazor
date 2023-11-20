@@ -21,11 +21,19 @@
 
 
 @code {
+    [Inject]
+    private IJSRuntime JSRuntime { get; set; }
+
     [Parameter]
     public Pokemon? Pokemon { get; set; }
 
     [Parameter]
     public EventCallback<bool> CloseDialog { get; set; }
+
+    protected override async void OnAfterRender(bool firstRender)
+    {
+        await JSRuntime.InvokeVoidAsync("playSound", "PokemonCries/" + Pokemon.Id + ".wav");
+    }
 
     private Task OnCloseDialog(Object test)
     {

@@ -11,7 +11,8 @@
 main {
     position: fixed;
     top: 20vh;
-    left: 30vw;
+    left: 50%;
+    transform: translateX(-50%);
     width: 600px;
     height: 400px;
     background-color: var(--green-1);
