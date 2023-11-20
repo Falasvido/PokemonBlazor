@@ -2,10 +2,28 @@
     color: var(--green-4);
 }
 
-nav > div {
+nav {
     display: flex;
-    justify-content: center;
-    margin: 8px 0;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.nav-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-buttons > div {
+    margin: 8px;
+}
+
+.nav-actions {
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-end;
+    margin: 32px;
 }
 
 h2 {
@@ -30,4 +48,20 @@ div ::deep a:hover {
 ::deep .nav-active {
     background-color: var(--green-3);
     color: var(--green-2);
+}
+
+button {
+    color: var(--green-4);
+    background-color: var(--green-2);
+    border: var(--green-4) solid 2px;
+}
+
+button:hover {
+    background-color: var(--green-3);
+    color: var(--green-1);
+}
+
+button > span {
+    margin: 8px;
+    font-size: 28px;
 }

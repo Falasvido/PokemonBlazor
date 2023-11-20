@@ -1,5 +1,8 @@
 ﻿@using Data.Pokemon
 
+@using Data.Audio
+@inject AudioService AudioService
+
 <div class="background" @onclick="@OnCloseDialog"></div>
 
 <main>
@@ -32,7 +35,10 @@
 
     protected override async void OnAfterRender(bool firstRender)
     {
-        await JSRuntime.InvokeVoidAsync("playSound", "PokemonCries/" + Pokemon.Id + ".wav");
+        if (AudioService.IsSoundActive())
+        {
+            await JSRuntime.InvokeVoidAsync("playSound", "PokemonCries/" + Pokemon.Id + ".wav");
+        }
     }
 
     private Task OnCloseDialog(Object test)

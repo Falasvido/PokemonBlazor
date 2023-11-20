@@ -15,7 +15,7 @@
             new Pokemon("009", "Blastoise", "Water", "", "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."),
             new Pokemon("010", "Caterpie", "Bug", "", "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food."),
             new Pokemon("011", "Metapod", "Bug", "", "Its hard shell doesn’t crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides."),
-            new Pokemon("012", "Butterfree", "Bug", "Flying", "wers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory."),
+            new Pokemon("012", "Butterfree", "Bug", "Flying", "Flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory."),
             new Pokemon("013", "Weedle", "Bug", "Poison", "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose)."),
             new Pokemon("014", "Kakuna", "Bug", "Poison", "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."),
             new Pokemon("015", "Beedrill", "Bug", "Poison", "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."),

@@ -1,3 +1,4 @@
+using PokemonBlazor.Data.Audio;
 using PokemonBlazor.Data.Pokemon;
 using PokemonBlazor.Data.Weather;
 
@@ -8,6 +9,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSingleton<PokemonService>();
+builder.Services.AddSingleton<AudioService>();
 
 var app = builder.Build();
 
