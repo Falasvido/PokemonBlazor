@@ -9,13 +9,13 @@ nav {
     flex-grow: 1;
 }
 
-.nav-buttons {
+.nav-buttons-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.nav-buttons > div {
+.nav-buttons-container > div {
     margin: 8px;
 }
 
@@ -32,6 +32,7 @@ h2 {
 }
 
 div ::deep a {
+    display: block;
     color: var(--green-4);
     font-size: 16px;
     text-decoration: none;
@@ -52,7 +53,7 @@ div ::deep a:hover {
 
 button {
     color: var(--green-4);
-    background-color: var(--green-2);
+    background-color: var(--green-1);
     border: var(--green-4) solid 2px;
 }
 

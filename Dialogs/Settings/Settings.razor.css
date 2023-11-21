@@ -1,0 +1,24 @@
+﻿.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #00000015;
+    cursor: pointer;
+}
+
+main {
+    position: fixed;
+    top: 20vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 600px;
+    height: 400px;
+    background-color: var(--green-1);
+    cursor: default;
+    outline: var(--green-3) dashed 8px;
+    border: var(--green-4) solid 4px;
+    display: flex;
+    flex-direction: column;
+}

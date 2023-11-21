@@ -35,9 +35,10 @@
 
     protected override async void OnAfterRender(bool firstRender)
     {
-        if (AudioService.IsSoundActive())
+        double Volume = AudioService.GetVolume();
+        if (Volume > 0.0)
         {
-            await JSRuntime.InvokeVoidAsync("playSound", "PokemonCries/" + Pokemon.Id + ".wav");
+            await JSRuntime.InvokeVoidAsync("playSound", "PokemonCries/" + Pokemon.Id + ".wav", Volume);
         }
     }
 

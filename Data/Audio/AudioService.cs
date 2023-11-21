@@ -2,16 +2,16 @@
 {
     public class AudioService
     {
-        private static bool SoundActive = false;
+        private static double Volume = 0.0;
 
-        public bool IsSoundActive()
+        public double GetVolume()
         {
-            return SoundActive;
+            return Volume;
         }
 
-        public void ToggleSound()
+        public void SetVolume(double volume)
         {
-            SoundActive = !SoundActive;
+            Volume = volume / 100.0;
         }
     }
 }

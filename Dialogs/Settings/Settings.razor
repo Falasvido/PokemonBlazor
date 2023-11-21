@@ -1,0 +1,33 @@
+﻿@using Data.Audio
+@inject AudioService AudioService
+
+
+<div class="background" @onclick="@OnCloseDialog"></div>
+
+<main>
+    Settings
+
+    @Volume
+    <input type="range" @bind="@Volume" min="0" max="10" step="1">
+
+    <button @onclick="@SetToUnokwn">???</button>
+</main>
+
+
+@code {
+    [Parameter]
+    public EventCallback<bool> CloseDialog { get; set; }
+
+    private int Volume { get; set; }
+
+    private Task OnCloseDialog(Object test)
+    {
+        AudioService.SetVolume(Volume);
+        return CloseDialog.InvokeAsync(true);
+    }
+
+    private void SetToUnokwn()
+    {
+        
+    }
+}
