@@ -1,8 +1,12 @@
 ﻿@inherits LayoutComponentBase
 
+@using Data.Layout
+@inject LayoutService LayoutService
+
+
 <PageTitle>Pokemon</PageTitle>
 
-<div class="page" style="font-family: Unown !important; text-transform: lowercase;">
+<div class='@(UnokwnMode ? "page unokwn" : "page")'>
     <div class="sidebar">
         <NavMenu />
     </div>
@@ -13,3 +17,23 @@
         </article>
     </main>
 </div>
+
+
+@code {
+    public bool UnokwnMode;
+
+    protected override void OnInitialized()
+    {
+        UnokwnMode = LayoutService.IsUnokwnModeActive();
+        LayoutService.LayoutChanged += UpdateUnokwnModeState;
+    }
+
+    private async void UpdateUnokwnModeState()
+    {
+        await InvokeAsync(() =>
+        {
+            UnokwnMode = LayoutService.IsUnokwnModeActive();
+            StateHasChanged();
+        });
+    }
+}

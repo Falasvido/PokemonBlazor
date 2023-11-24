@@ -1,4 +1,5 @@
 using PokemonBlazor.Data.Audio;
+using PokemonBlazor.Data.Layout;
 using PokemonBlazor.Data.Pokemon;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<PokemonService>();
 builder.Services.AddSingleton<AudioService>();
+builder.Services.AddSingleton<LayoutService>();
 
 var app = builder.Build();
 

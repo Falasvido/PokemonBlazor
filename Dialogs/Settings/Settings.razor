@@ -1,6 +1,9 @@
 ﻿@using Data.Audio
 @inject AudioService AudioService
 
+@using Data.Layout
+@inject LayoutService LayoutService
+
 
 <div class="background" @onclick="@OnCloseDialog"></div>
 
@@ -10,7 +13,7 @@
     @Volume
     <input type="range" @bind="@Volume" min="0" max="10" step="1">
 
-    <button @onclick="@SetToUnokwn">???</button>
+    <button @onclick="@ChangeUnokwnMode">???</button>
 </main>
 
 
@@ -26,8 +29,8 @@
         return CloseDialog.InvokeAsync(true);
     }
 
-    private void SetToUnokwn()
+    private void ChangeUnokwnMode()
     {
-        
+        LayoutService.ChangeUnokwnMode();
     }
 }

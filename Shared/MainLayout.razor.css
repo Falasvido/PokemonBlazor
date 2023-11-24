@@ -4,6 +4,11 @@
     flex-direction: column;
 }
 
+.unokwn {
+    font-family: Unown !important;
+    text-transform: lowercase;
+}
+
 main {
     height: 100vh;
     overflow: auto;
