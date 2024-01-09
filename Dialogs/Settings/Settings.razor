@@ -8,12 +8,17 @@
 <div class="background" @onclick="@OnCloseDialog"></div>
 
 <main>
-    Settings
+    <h3>Settings</h3>
 
-    @Volume
-    <input type="range" @bind="@Volume" min="0" max="10" step="1">
+    <div class="volume-container">
+        <input type="range" @bind="@Volume" min="0" max="10" step="1">
+        <div class="volume">@Volume</div>
+    </div>
 
-    <button @onclick="@ChangeUnokwnMode">???</button>
+    <div class="unokwn-container">
+        <button @onclick="@ChangeUnokwnMode">???</button>
+    </div>
+    
 </main>
 
 
@@ -22,6 +27,11 @@
     public EventCallback<bool> CloseDialog { get; set; }
 
     private int Volume { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Volume = AudioService.GetVolumeAsInt();
+    }
 
     private Task OnCloseDialog(Object test)
     {

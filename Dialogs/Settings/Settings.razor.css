@@ -22,3 +22,54 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+h3 {
+    color: var(--green-4);
+    margin: 24px 0 0 32px;
+}
+
+.volume-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+input[type="range"] {
+    width: 468px;
+    appearance: none;
+    cursor: pointer;
+    background: var(--green-3);
+    margin-right: 24px;
+    border: solid 4px var(--green-3);
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    appearance: none;
+    background-color: var(--green-2);
+    height: 16px;
+    width: 16px;
+}
+
+.volume {
+    width: 32px;
+    color: var(--green-4);
+}
+
+.unokwn-container {
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-end;
+    margin: 32px;
+    justify-content: center;
+}
+
+button {
+    color: var(--green-4);
+    background-color: var(--green-1);
+    border: solid 2px var(--green-4);
+}
+
+button:hover {
+    background-color: var(--green-3);
+    color: var(--green-1);
+}

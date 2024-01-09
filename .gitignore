@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/.vs/ProjectEvaluation/pokemonblazor.metadata.v7.bin
+/.vs/ProjectEvaluation/pokemonblazor.projects.v7.bin
